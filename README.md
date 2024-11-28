@@ -1,4 +1,4 @@
-                                                                                        Knapsack Algorithm Solver
+Knapsack Algorithm Solver
 
 //MÔ TẢ
 Ứng dụng này giải bài toán Knapsack Problem (Balo) bằng các thuật toán khác nhau, bao gồm:
@@ -60,4 +60,4 @@ Backtracking:
 Hill Climbing:
     -Tìm kiếm cục bộ để cải thiện giá trị bằng cách thử thay đổi trạng thái hiện tại.
 
-                                                                                     Chúc bạn sử dụng chương trình thành công!
+Chúc bạn sử dụng chương trình thành công!
