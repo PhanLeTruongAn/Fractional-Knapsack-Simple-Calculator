@@ -25,12 +25,12 @@ Các thư viện Python cần cài đặt:
 
 2. Giao diện chương trình
   a. Nhập dữ liệu đầu vào:
-*Trọng lượng: Nhập danh sách trọng lượng của các vật phẩm, cách nhau bằng dấu phẩy.
-    Ví dụ: 10,20,30
-*Giá trị: Nhập danh sách giá trị tương ứng của các vật phẩm, cách nhau bằng dấu phẩy.
-    Ví dụ: 60,100,120
-*Sức chứa tối đa: Nhập tổng trọng lượng tối đa mà balo có thể chứa.
-    Ví dụ: 50
+   1. Trọng lượng: Nhập danh sách trọng lượng của các vật phẩm, cách nhau bằng dấu phẩy.
+      Ví dụ: 10,20,30
+   2. Giá trị: Nhập danh sách giá trị tương ứng của các vật phẩm, cách nhau bằng dấu phẩy.
+      Ví dụ: 60,100,120
+   3. Sức chứa tối đa: Nhập tổng trọng lượng tối đa mà balo có thể chứa.
+      Ví dụ: 50
    
   b. Chọn thuật toán:
 Chọn một thuật toán từ menu thả xuống, bao gồm: Greedy, Backtracking, Hill Climbing
