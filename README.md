@@ -6,7 +6,7 @@
 
 Ngoài ra, ứng dụng cung cấp giao diện đồ họa giúp người dùng:
 
-1.Nhập dữ liệu đầu vào.
+1. Nhập dữ liệu đầu vào.
 2. Chọn thuật toán mong muốn.
 3. Hiển thị kết quả giải bài toán và thời gian thực thi.
 4. So sánh thời gian thực thi giữa các thuật toán bằng biểu đồ.
